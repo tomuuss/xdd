@@ -1,4 +1,4 @@
-LABEL org.opencontainers.image.source=https://github.com/octocat/my-repo
+LABEL org.opencontainers.image.source=https://github.com/xdderent/xdd
 
 FROM alpine
 
